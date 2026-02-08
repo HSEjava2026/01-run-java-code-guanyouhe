@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ru.hse.lab1","l":"Hello"},{"p":"ru.hse.lab1","l":"Main"},{"p":"ru.hse.lab1.second","l":"Person"},{"l":"所有类和接口","u":"allclasses-index.html","k":"18"}];updateSearchResults();

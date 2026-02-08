@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ru.hse.lab1"},{"l":"ru.hse.lab1.second"},{"l":"所有程序包","u":"allpackages-index.html","k":"18"}];updateSearchResults();
